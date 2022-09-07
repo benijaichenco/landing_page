@@ -42,3 +42,10 @@ a {
     align-items: flex-start;
     flex: 1;
 }
+
+.section-one .placeholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
