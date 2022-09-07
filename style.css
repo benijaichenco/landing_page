@@ -46,6 +46,12 @@ a {
     flex: 1;
 }
 
+.section-one .title {
+    color: #f9faf8;
+    font-size: 38px;
+    font-weight: 900;
+}
+
 .section-one .placeholder {
     display: flex;
     justify-content: center;
