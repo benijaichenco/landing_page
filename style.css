@@ -75,3 +75,7 @@ a {
     align-items: center;
     gap: 16px;
 }
+
+.section-two .boxes {
+    display: flex;
+}
