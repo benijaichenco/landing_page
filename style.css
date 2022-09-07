@@ -93,3 +93,7 @@ a {
     gap: 12px;
     align-items: center;
 }
+
+.section-two .text {
+    text-align: center;
+}
