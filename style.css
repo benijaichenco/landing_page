@@ -14,3 +14,8 @@ body {
     align-items: center;
     background-color: #1f2937;
 }
+
+ul {
+    display: flex;
+    gap: 16px;
+}
