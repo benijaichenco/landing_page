@@ -79,3 +79,10 @@ a {
 .section-two .boxes {
     display: flex;
 }
+
+.section-two .box {
+    height: 150px;
+    width: 150px;
+    border: solid #3882f6;
+    border-radius: 12px;
+}
