@@ -86,3 +86,10 @@ a {
     border: solid #3882f6;
     border-radius: 12px;
 }
+
+.section-two .container {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    align-items: center;
+}
