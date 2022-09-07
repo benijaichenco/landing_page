@@ -34,3 +34,10 @@ a {
 .section-one {
     display: flex;
 }
+
+.section-one .left {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
