@@ -33,6 +33,9 @@ a {
 
 .section-one {
     display: flex;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    font-size: 18px;
 }
 
 .section-one .left {
