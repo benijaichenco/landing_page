@@ -132,6 +132,7 @@ a {
     align-items: center;
     gap: 150px;
     padding: 30px 80px;
+    border-radius: 8px;
 }
 
 .section-four .left {
