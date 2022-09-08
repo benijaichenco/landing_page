@@ -129,6 +129,7 @@ a {
     display: flex;
     background-color: #3882f6;
     align-items: center;
+    gap: 150px;
 }
 
 .section-four .left {
