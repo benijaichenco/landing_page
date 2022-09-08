@@ -102,3 +102,7 @@ a {
     text-align: center;
 }
 
+.section-three {
+    display: flex;
+    flex-direction: column;
+}
