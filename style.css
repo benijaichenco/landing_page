@@ -145,3 +145,8 @@ a {
     color: #e5e7eb;
     font-size: 18px;
 }
+
+.section-four button {
+    background-color: #3882f6;
+    color: #f9faf8;
+}
