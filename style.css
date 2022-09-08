@@ -106,3 +106,8 @@ a {
     display: flex;
     flex-direction: column;
 }
+
+.author {
+    margin-left: auto;
+
+}
