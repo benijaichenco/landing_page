@@ -128,3 +128,9 @@ a {
 .section-four .box {
     display: flex;
 }
+
+.section-four .left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
