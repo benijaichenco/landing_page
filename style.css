@@ -124,3 +124,7 @@ a {
     justify-content: center;
     align-items: center;
 }
+
+.section-four .box {
+    display: flex;
+}
