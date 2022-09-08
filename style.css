@@ -118,3 +118,9 @@ a {
     font-size: 36px;
     font-style: italic;
 }
+
+.section-four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
