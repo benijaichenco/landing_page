@@ -127,6 +127,7 @@ a {
 
 .section-four .box {
     display: flex;
+    background-color: #3882f6;   
 }
 
 .section-four .left {
