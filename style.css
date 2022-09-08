@@ -78,6 +78,9 @@ a {
 
 .section-two .boxes {
     display: flex;
+    justify-content: center;
+    width: 150px;
+    gap: 34px;
 }
 
 .section-two .box {
@@ -97,3 +100,4 @@ a {
 .section-two .text {
     text-align: center;
 }
+
