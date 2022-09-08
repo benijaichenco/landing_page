@@ -136,3 +136,8 @@ a {
     flex-direction: column;
     align-items: flex-start;
 }
+
+.section-four .title {
+    color :#f9faf8;
+    font-size: 28px;
+}
