@@ -111,6 +111,7 @@ a {
     flex-direction: column;
     background-color: #e5e7eb;
     color: #1f2937;
+    padding: 20px 100px;
 }
 
 .author {
